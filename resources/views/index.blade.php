@@ -1,4 +1,4 @@
-@extrends('layouts.app')
+@extends('layouts.app')
 
 @section('title', 'The List of tasks')
 
